@@ -1,0 +1,2 @@
+## Portfolio Orginization
+For my prtfolio I'll organize it by having boxes orginized that resembles a person along with a background. The cluster of images will also have a weapon in its hand. Then the tital will also be a selected gif. For each of the images I will have a clickable link to different gifs and images.The clickable links will take them to different websites' content I have used so thee user can intereact and checkout where I got the content from.
